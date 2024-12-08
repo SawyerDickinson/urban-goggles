@@ -1,0 +1,35 @@
+
+  body {
+    font-family: 'Raleway', sans-serif;
+  }
+  p {
+    color:  blue;
+    background-color: aqua;
+  }
+  a:hover {
+    color: rgb(9, 243, 60);
+  }
+  h2 {
+    background-color:rgb(18, 108, 224);
+  }
+
+body {
+    background-image: url("abstract-contemporary-seamless-pattern-celtic-260nw-710522302.PNG");
+    background-repeat: repeat-x;
+}
+head {
+  background-image: url("abstract-contemporary-seamless-pattern-celtic-260nw-710522302.PNG");
+  background-repeat: repeat-x;
+
+}
+a {
+  border: 3px solid blue;
+  border-radius: 15px;
+}
+div {
+  min-height: 100px;
+  max-height: 1000px;
+}
+p {
+  padding: 30px 30px;
+}
